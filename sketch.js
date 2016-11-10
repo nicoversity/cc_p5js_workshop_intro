@@ -1,3 +1,15 @@
+/*
+ * sketch.js
+ *
+ * Project: Creative coding using p5.js - Workshop: An introduction to creative coding using p5.js
+ *
+ * Supported p5.js version: 0.4.20
+ *
+ * Author: Nico Reski
+ * Web: http://reski.nicoversity.com
+ * Twitter: @nicoversity
+ */
+
 // declare object/instance
 var myBall;
 

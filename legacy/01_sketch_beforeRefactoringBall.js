@@ -1,3 +1,15 @@
+/*
+ * 01_beforeRefactoringBall.js
+ *
+ * Project: Creative coding using p5.js - Workshop: An introduction to creative coding using p5.js
+ *
+ * Supported p5.js version: 0.4.20
+ *
+ * Author: Nico Reski
+ * Web: http://reski.nicoversity.com
+ * Twitter: @nicoversity
+ */
+
 // ball related properties
 var ballPosX;       // x coordinate of the ball's position
 var ballPosY;       // y coordinate of the ball's position
@@ -28,7 +40,7 @@ function draw() {
   clear();
 
   // setup background intensity (R,G,B arguments are also valid)
-  background(230);  
+  background(230);
 
   // if ball is supposed to move: update it's position
   if(ballIsMoving)
