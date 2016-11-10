@@ -1,5 +1,7 @@
 # Creative coding using p5.js - Workshop: An introduction to creative coding using p5.js.
 
+**complementary slides**: [GitHub, 2.12 MB](https://github.com/nicoversity/slides/blob/master/workshops/cc_p5xjs_01_introductionToP5jsAndJavaScript.pdf)
+
 **p5.js version**: 0.4.20
 
 The purpose of the project is to illustrate and teach some basic drawing and interaction features of the creative coding library [p5.js](https://p5js.org/). This activity is meant to be held in a workshop-like format and step by step to the participants using live coding, supported by the here illustrated and commented source code.
